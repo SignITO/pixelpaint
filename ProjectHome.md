@@ -1,0 +1,1 @@
+A simple paint program. This is the first piece of Eggplant Animation Software. If you need help with the program, use the assistant.
